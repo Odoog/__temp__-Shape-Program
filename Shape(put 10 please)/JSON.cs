@@ -7,9 +7,9 @@ using System.Text.Json.Serialization;
 
 namespace Shape_put_10_please_
 {
-    class JSON
+    static class JSON
     {
-        public static string Serialize<T>(T obj)
+        public static string JSONSerialize<T>(this T obj)
         {
             return JsonSerializer.Serialize(obj);
         }

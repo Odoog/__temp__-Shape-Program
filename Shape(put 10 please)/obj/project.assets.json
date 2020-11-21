@@ -8,25 +8,20 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\OFFLUCK\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\odoog\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\OFFLUCK\\Desktop\\Программы Visual Studio\\Программы C#\\Shape(put 10 please)\\Shape(put 10 please)\\Shape(put 10 please).csproj",
+      "projectUniqueName": "C:\\Users\\odoog\\Downloads\\__temp__-Shape-Program\\Shape(put 10 please)\\Shape(put 10 please).csproj",
       "projectName": "Shape(put 10 please)",
-      "projectPath": "C:\\Users\\OFFLUCK\\Desktop\\Программы Visual Studio\\Программы C#\\Shape(put 10 please)\\Shape(put 10 please)\\Shape(put 10 please).csproj",
-      "packagesPath": "C:\\Users\\OFFLUCK\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\OFFLUCK\\Desktop\\Программы Visual Studio\\Программы C#\\Shape(put 10 please)\\Shape(put 10 please)\\obj\\",
+      "projectPath": "C:\\Users\\odoog\\Downloads\\__temp__-Shape-Program\\Shape(put 10 please)\\Shape(put 10 please).csproj",
+      "packagesPath": "C:\\Users\\odoog\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\odoog\\Downloads\\__temp__-Shape-Program\\Shape(put 10 please)\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\OFFLUCK\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\odoog\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -63,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

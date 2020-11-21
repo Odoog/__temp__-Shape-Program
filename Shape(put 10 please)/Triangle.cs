@@ -62,7 +62,7 @@ namespace Shape_put_10_please_
 
         public override string Serialize()
         {
-            return JSON.Serialize(this);
+            return this.JSONSerialize();
         }
     }
 }
