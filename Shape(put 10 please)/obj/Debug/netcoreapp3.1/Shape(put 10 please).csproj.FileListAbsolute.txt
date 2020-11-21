@@ -1,0 +1,13 @@
+C:\Users\OFFLUCK\Desktop\Программы Visual Studio\Программы C#\Shape(put 10 please)\Shape(put 10 please)\obj\Debug\netcoreapp3.1\Shape(put 10 please).csprojAssemblyReference.cache
+C:\Users\OFFLUCK\Desktop\Программы Visual Studio\Программы C#\Shape(put 10 please)\Shape(put 10 please)\obj\Debug\netcoreapp3.1\Shape(put 10 please).AssemblyInfoInputs.cache
+C:\Users\OFFLUCK\Desktop\Программы Visual Studio\Программы C#\Shape(put 10 please)\Shape(put 10 please)\obj\Debug\netcoreapp3.1\Shape(put 10 please).AssemblyInfo.cs
+C:\Users\OFFLUCK\Desktop\Программы Visual Studio\Программы C#\Shape(put 10 please)\Shape(put 10 please)\obj\Debug\netcoreapp3.1\Shape(put 10 please).csproj.CoreCompileInputs.cache
+C:\Users\OFFLUCK\Desktop\Программы Visual Studio\Программы C#\Shape(put 10 please)\Shape(put 10 please)\bin\Debug\netcoreapp3.1\Shape(put 10 please).exe
+C:\Users\OFFLUCK\Desktop\Программы Visual Studio\Программы C#\Shape(put 10 please)\Shape(put 10 please)\bin\Debug\netcoreapp3.1\Shape(put 10 please).deps.json
+C:\Users\OFFLUCK\Desktop\Программы Visual Studio\Программы C#\Shape(put 10 please)\Shape(put 10 please)\bin\Debug\netcoreapp3.1\Shape(put 10 please).runtimeconfig.json
+C:\Users\OFFLUCK\Desktop\Программы Visual Studio\Программы C#\Shape(put 10 please)\Shape(put 10 please)\bin\Debug\netcoreapp3.1\Shape(put 10 please).runtimeconfig.dev.json
+C:\Users\OFFLUCK\Desktop\Программы Visual Studio\Программы C#\Shape(put 10 please)\Shape(put 10 please)\bin\Debug\netcoreapp3.1\Shape(put 10 please).dll
+C:\Users\OFFLUCK\Desktop\Программы Visual Studio\Программы C#\Shape(put 10 please)\Shape(put 10 please)\bin\Debug\netcoreapp3.1\Shape(put 10 please).pdb
+C:\Users\OFFLUCK\Desktop\Программы Visual Studio\Программы C#\Shape(put 10 please)\Shape(put 10 please)\obj\Debug\netcoreapp3.1\Shape(put 10 please).dll
+C:\Users\OFFLUCK\Desktop\Программы Visual Studio\Программы C#\Shape(put 10 please)\Shape(put 10 please)\obj\Debug\netcoreapp3.1\Shape(put 10 please).pdb
+C:\Users\OFFLUCK\Desktop\Программы Visual Studio\Программы C#\Shape(put 10 please)\Shape(put 10 please)\obj\Debug\netcoreapp3.1\Shape(put 10 please).genruntimeconfig.cache

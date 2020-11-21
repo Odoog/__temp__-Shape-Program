@@ -1,0 +1,5 @@
+{"Side1":27,"Side2":27,"Perimeter":108,"Square":729,"NumberOfApex":0}
+{"Side1":7,"Side2":64,"Perimeter":142,"Square":448,"NumberOfApex":0}
+{"ASide":56,"BSide":17,"CSide":58.52349955359813,"AAngle":1.276066221585519,"BAngle":0.2947301052093774,"CAngle":1.5707963267948968,"Perimeter":131.52349955359813,"Square":476,"NumberOfApex":0}
+{"ASide":36,"BSide":36,"CSide":36,"AAngle":1.0471975511965979,"BAngle":1.0471975511965979,"CAngle":1.0471975511965979,"Perimeter":108,"Square":561.1844616523163,"NumberOfApex":0}
+{"ASide":59,"BSide":9,"CSide":57,"AAngle":1.7185063595805978,"BAngle":0.1514597104551088,"CAngle":1.2716265835540868,"Perimeter":125,"Square":253.70689289020115,"NumberOfApex":0}
